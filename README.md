@@ -19,5 +19,5 @@ This is just gonna be some meme info-stealer so I can enhance my c++ abilities f
 
 Original Inspo: 
 
-https://imgur.com/a/5vNsAfA
-https://imgur.com/a/xmO80Cc
+![Meme](https://imgur.com/a/5vNsAfA)
+![Outcome](https://imgur.com/a/xmO80Cc)
