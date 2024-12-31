@@ -1,4 +1,5 @@
 # Thrustmaster-Stealer 🔑💻
+- 🌐 **Notice**: Im not a malware dev, Any sources I use. I wil credit from the original github source / etc source :) 
 
 This is just gonna be some meme info-stealer so I can enhance my c++ abilities for fun :D
 
@@ -7,7 +8,7 @@ This is just gonna be some meme info-stealer so I can enhance my c++ abilities f
 ## ✨ Key Features  
 - 🧑‍💻 **Developed by egoGPT**: Those who know: ☠️☠️☠️
 - 🛠️ **Comprehensive Patching**: EgoGPT made this, you know its awesome-sauce :3
-- 🌐 **Version Compatibility**: Works from windows 10 and all latest version!  
+- 🌐 **Version Compatibility**: Works from windows 10 and all latest version!
 
 ---
 
