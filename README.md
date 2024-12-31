@@ -1,7 +1,6 @@
 # Thrustmaster-Stealer 🔑💻
+- 🌐 This is just gonna be some meme info-stealer so I can enhance my c++ abilities for fun :D
 - 🌐 **Notice**: Im not a malware dev, Any sources I use. I wil credit from the original github source / etc source :) 
-
-This is just gonna be some meme info-stealer so I can enhance my c++ abilities for fun :D
 
 ---
 
